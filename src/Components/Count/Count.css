@@ -1,0 +1,19 @@
+.count{
+    margin-left: 400px;
+    padding: 30px;
+    border-bottom: 1px solid darkgray;
+    border-right: 1px solid darkcyan;
+    width: 500px;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+}
+
+.header{
+    //font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: green;
+    background-color:gray;
+}
